@@ -1,0 +1,55 @@
+.color-bg{
+    background-color: #DDDDDD;
+}
+
+.color-secondary{
+    background-color: #D6AA45;
+}
+
+.color-secondary-font{
+    color: #D6AA45;
+}
+
+.bd{
+    border-bottom: 5px solid #D6AA45;
+}
+
+/* nav-bar設定 */
+
+.navbar-item-font{
+    color: black;
+}
+
+.navbar-item-font:hover{
+    border-left: 5px solid #D6AA45;
+}
+
+.dropdown-set{
+    background-color: #fff;
+}
+
+.dropdown-set:hover{
+    color: #D6AA45;
+}
+
+/* 自我介紹 */
+
+
+
+.about-picture{
+    width: 60%;
+}
+
+.protfolio-work{
+    width: 100%;
+}
+
+.top{
+  padding: 10px;
+  background-color: #fff;
+  color: #D6AA45;
+  position: fixed;
+  bottom: 0;
+  right: 10px;
+}
+  
